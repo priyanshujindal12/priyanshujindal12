@@ -55,7 +55,7 @@
 </td>
 
 <td>
-  <img src="1.gif" width="350" />
+  <img src="1.gif" width="150" />
 </td>
 
 </tr>
