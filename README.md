@@ -5,11 +5,11 @@
 </p>
 
 <br/>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E7FF&center=true&vCenter=true&width=700&height=60&lines=%3E+Building+the+Future+with+Code;%3E+Full+Stack+Developer;%3E+AI+Enthusiast;%3E+MERN+Stack+Wizard" />
+</p>
 
 <!-- 🌈 Unique Gradient Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/8fFMF4I.png" width="80%" alt="Welcome Banner"/>
-</p>
 
 <h2 align="center" style="color:#ffffff;">Welcome to My Creative Space 🚀</h2>
 
@@ -22,7 +22,7 @@
 <!-- 🔗 Social Button Row -->
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-jindal-38a67a324/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+  <a href="https://leetcode.com/priyanshujindal009/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
@@ -78,7 +78,7 @@
 ## 📊 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshu_jindal?theme=dark&font=Fira%20Code" />
+  <img src="https://leetcard.jacoblin.cool/priyanshujindal009?theme=dark&font=Fira%20Code" />
 </p>
 
 ---
