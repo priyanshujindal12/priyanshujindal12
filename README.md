@@ -90,7 +90,7 @@
 ## 📊 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshujindal009?theme=dark&font=Fira%20Code" />
+  <img src="https://leetcard.jacoblin.cool/priyanshujindal009?theme=dark&font=Fira%20Code&ext=heatmap&ext=contest&border=0" />
 </p>
 
 ---
