@@ -1,17 +1,43 @@
-<h1 align="center">Hi there, I'm Priyanshu Jindal! 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00E0FF;">Priyanshu Jindal</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Problem+Solver;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36FFDD&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
----
+<br/>
 
-## 🚀 Welcome to My Digital World!
+<!-- 🌈 Unique Gradient Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/8fFMF4I.png" width="80%" alt="Welcome Banner"/>
+</p>
 
-I'm a passionate **Full-Stack Developer**, **AI Enthusiast**, and dedicated **problem solver** who loves building impactful and scalable digital solutions.  
-With a strong foundation in MERN stack, backend systems, and modern web technologies, I’m continuously learning and pushing boundaries.
+<h2 align="center" style="color:#ffffff;">Welcome to My Creative Space 🚀</h2>
 
----
+<p align="center">
+  A digital world where I build apps, explore AI, solve problems, and create innovative solutions.
+</p>
+
+<br/>
+
+<!-- 🔗 Social Button Row -->
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR-INSTA" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  
+</div>
+
+<br/>
+
 
 ## 🌟 About Me
 
