@@ -37,20 +37,30 @@
 <br/>
 
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 🎓 **Computer Science Student**
-- 🧠 **AI & MERN Stack Developer**
-- 💻 Solved **140+ LeetCode Problems**
-- 🧩 Strong in **Java, C++, Python, JavaScript**
-- 🚀 Built **4+ projects**:
-  - 🧭 Trip Planner App  
-  - 💬 Real-time Chat Application  
-  - 🛡️ Women Safety App  
-  - 🎬 Movie Finder App  
-- 🗄️ Experienced with **MySQL, MongoDB**
-- 🌐 Worked with **Next.js, Node.js, Express.js**
-- 🌟 Always learning. Always building.
+<table>
+<tr>
+<td>
+
+- 🎓 **Computer Science Engineering Student**
+- 📊 **CGPA: 9.55/10 | Expected Graduation: 2028**
+- 🤖 **AI & MERN Stack Developer**
+- 💡 Building intelligent & scalable applications
+- 🛠 Strong in **Java, C++, Python, JavaScript**
+- 🚀 Built multiple impactful projects
+- 🗄️ Experience with **MySQL, MongoDB**
+- 🌐 Worked on **Next.js, Node.js, Express.js**
+
+</td>
+
+<td>
+  <img src="1.gif" width="350" />
+</td>
+
+</tr>
+</table>
+
 
 ---
 
