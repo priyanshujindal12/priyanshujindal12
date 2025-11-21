@@ -5,9 +5,7 @@
 </p>
 
 <br/>
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E7FF&center=true&vCenter=true&width=700&height=60&lines=%3E+Building+the+Future+with+Code;%3E+Full+Stack+Developer;%3E+AI+Enthusiast;%3E+MERN+Stack+Wizard" />
-</p>
+
 
 <!-- 🌈 Unique Gradient Banner -->
 
