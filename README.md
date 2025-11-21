@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36FFDD&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <img src="k.gif" width="150" height="150/>
+</p>
+
 <br/>
 
 
