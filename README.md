@@ -92,6 +92,12 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/priyanshujindal009?theme=dark&font=Fira%20Code&ext=heatmap&ext=contest&border=0" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-140%2B-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-Top%2010%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graph%20Theory-Top%2010%25-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Expert-green?style=for-the-badge" />
+</p>
 
 ---
 
